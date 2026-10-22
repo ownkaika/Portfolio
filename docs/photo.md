@@ -4,7 +4,21 @@
 
 **領域**：Android　｜　**專案狀態**：開發與實機驗證中
 
-[← 回作品集首頁](../README.md)　·　[開啟應用圖 SVG](../assets/diagrams/photo-app.svg)　·　[開啟技術圖 SVG](../assets/diagrams/photo-tech.svg)
+[← 回作品集首頁](../README.md)
+
+## 這是什麼作品？
+
+這是為了把個人文件、作業、收據與照片獨立於三星系統相簿管理，而設計的 Android 私人相簿。
+
+### 主要特色
+
+獨立媒體庫、分類、匯入、垃圾桶與可選隱私鎖；仍需實機驗證。
+
+### 技術重點
+
+Photo Picker、App 私有儲存、分類索引與 MediaStore。
+
+> 下方兩張圖直接顯示在本頁，無須點開 SVG 原始碼。
 
 ## 01｜應用操作流程
 
