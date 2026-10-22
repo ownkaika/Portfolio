@@ -4,19 +4,21 @@
 
 **領域**：Android　｜　**專案狀態**：開發作品
 
-[← 回作品集首頁](../README.md)　·　[開啟應用圖 SVG](../assets/diagrams/st-app.svg)　·　[開啟技術圖 SVG](../assets/diagrams/st-tech.svg)
+[← 回作品集首頁](../README.md)
 
 ## 這是什麼作品？
 
-ST 是我為了快速保存資料到 Telegram「我的收藏」而製作的 Android 分享工具。使用者在瀏覽器、相簿或其他 App 看到想留下的文字、網頁或圖片時，能直接使用系統分享選單，不用再開啟 Telegram 手動操作。
+ST 是為習慣使用 Telegram「我的收藏」整理資訊的人設計的 Android 分享工具。我希望看到網頁、文字或圖片時，可以從原本的 App 直接分享並收藏，省去手動切換到 Telegram 的步驟。
 
-### 主要特色與使用對象
+### 主要特色與使用情境
 
-適合習慣利用 Telegram 收藏資訊的人；重點是 Android 分享選單、簡化傳送流程，以及處理文字和媒體內容。
+接收瀏覽器、相簿等 App 的 Android 分享內容，透過簡潔操作送到 Telegram Saved Messages。
 
 ### 技術重點
 
-Android Intent、URI 權限、TDLib 與 Telegram 連線。下方兩張圖已嵌在此頁，可直接觀看。
+Android ACTION_SEND、URI 臨時授權、TDLib 及 Telegram 帳號連線。
+
+> **看圖提示**：下方兩張圖已直接顯示在本頁，無須點開 SVG 原始碼。
 
 ## 01｜應用操作流程
 
