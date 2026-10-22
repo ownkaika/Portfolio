@@ -1,50 +1,38 @@
+![個人作品集視覺封面](assets/cover.svg)
+
 # 個人專案作品集｜Portfolio
 
-> 行動應用程式、AI 應用、網頁系統與自動化工具
+這不只是程式碼清單，而是我在課堂之外，將需求想法轉化成應用程式、網頁系統與自動化工具的實作紀錄。
 
-## 關於我
+### [進入互動式作品網站 →](https://ownkaika.github.io/Portfolio/)
 
-我具有資訊通訊相關學習背景，平時會從生活中的實際需求出發，自主規劃 Android、iOS App、網頁系統及 Mac 自動化工具。開發時運用 ChatGPT、Codex、Google AI Studio 等 AI 輔助工具，著重 **需求構想、功能與介面規劃、系統整合、測試及持續改善**，並透過作品逐步學習不同技術。
+> 網站使用 GitHub Pages 發布。若網站暫時無法開啟，請先到儲存庫 **Settings → Pages**，設定 **Deploy from a branch → main → /(root) → Save**。
 
-## 代表作品
+---
 
-### 學校專題｜AI 飲食分析與紀錄系統
-利用 AI 影像分析餐點，規劃飲食、營養資訊呈現與紀錄功能；接觸 AI API、前端互動及資料管理。
+### 代表作品
 
-### TT｜Android 即時監視器
-整合政府即時攝影機及網路影音直播來源，設計直播瀏覽、收藏管理、播放器及子母畫面等功能。
+| 方向 | 作品 | 做了什麼 |
+| --- | --- | --- |
+| Android | **TT 即時監視器** | 整合即時影像、直播來源及播放器操作 |
+| Android + AI | **MIC 語音鍵盤** | 語音辨識、輸入法文字回填及剪貼簿 |
+| iOS | **MultiPane** | 照片與影片多畫面編排及輸出 |
+| iOS / Android | **KAICODE** | 程式碼、ZIP、PDF 檔案閱讀工具 |
+| Web | **KaiBlog** | 文章管理、後台、資料庫與 AI 寫作工具 |
+| Automation | **Mac × Telegram** | 遠端指令觸發 Python 腳本與檔案工作流程 |
+| AI 專題 | **飲食分析系統** | 影像分析與飲食營養資訊記錄 |
+| 其他 | **Photo / EQ / AM / MP** | 私人相簿、地震資訊、音樂及浮動工具 |
 
-### MIC｜Android AI 語音鍵盤
-整合語音辨識服務與 Android 輸入法，規劃錄音轉文字、自動回填、文字紀錄及剪貼簿管理。
+**[完整圖像式作品介紹與分類篩選，請開啟作品網站 →](https://ownkaika.github.io/Portfolio/)**
 
-### MultiPane｜iOS 多畫面影音工具
-可將多張照片、影片配置於不同畫面區域，進行獨立播放、瀏覽及合成匯出；另有 Android 移植專案（AP），仍在持續驗證與調整。
+### 開發方式
 
-### KAICODE｜程式碼與 PDF 閱讀工具
-支援程式碼檔案、專案資料夾、搜尋、ZIP 匯入與 PDF 閱讀；另有 Android 移植專案（KC）。
+**需求發想 → 功能規劃 → AI 輔助實作 → 測試與持續改善**
 
-### KaiBlog｜個人部落格管理系統
-規劃文章發布、後台管理、留言、媒體管理及 AI 寫作輔助，接觸 React、TypeScript、Supabase、Vercel 與 Gemini API 的整合。
+使用 ChatGPT、Codex 等工具輔助開發，也持續接觸 Android、SwiftUI、React、TypeScript、Python、Gemini API、Supabase、Vercel 與 GitHub 等技術。這些是學習及實作經歷，不代表對所有技術皆已精通。
 
-### Mac 自動化｜Python × Telegram
-在 Mac 上建置自用腳本，透過 Telegram 遠端傳送指令觸發工作流程，處理影音下載、檔案整理等任務。此部分主要保留在本機，未公開原始碼。
+### 關於隱私
 
-## 其他自主專案
+為保護私人設定、帳號憑證與個人專案內容，**原始碼儲存庫多維持 Private**。公開的 Portfolio 只展示作品概要及概念示意圖，不包含私人儲存庫程式碼、API 金鑰或實際自動化指令。
 
-- **Photo**：Android 獨立私人相簿，包含分類、匯入與隱私鎖等設計（持續開發）。
-- **MP**：Android 浮動視窗與快捷操作工具。
-- **EQ**：地震資訊、地圖呈現與預估地震波抵達時間。
-- **AM**：Android 本機音樂播放器及背景播放。
-- **ST / Pp**：Telegram 快速分享與桌面浮動互動工具。
-- **其他**：農曆日曆、互動式網頁原型等探索作品。
-
-## 接觸的工具與技術
-
-- **行動應用**：Android、Swift、SwiftUI
-- **網站與資料**：React、TypeScript、Supabase（後端與資料庫）、Vercel
-- **AI 與自動化**：Gemini API、Google AI Studio、Python、Telegram 整合
-- **開發流程**：GitHub 版本管理、CircleCI 自動化建置、API 串接與功能測試
-
-## 作品說明
-
-以上作品包含已實際使用、持續改良及開發中的個人專案。部分程式碼由 AI 工具輔助產生，我主要投入需求分析、功能規劃、整合測試與反覆修正。**為保護私人資料、設定與開發內容，多數原始碼儲存庫維持私人狀態；本頁僅公開作品概覽，不公開專案原始碼與密鑰。**
+*網站與封面中的示意視覺並非 App 實際截圖；專案狀態各有不同，包含實際使用、持續改善及開發中作品。*
