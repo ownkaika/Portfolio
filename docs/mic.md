@@ -4,7 +4,21 @@
 
 **領域**：Android / AI　｜　**專案狀態**：持續改善
 
-[← 回作品集首頁](../README.md)　·　[開啟應用圖 SVG](../assets/diagrams/mic-app.svg)　·　[開啟技術圖 SVG](../assets/diagrams/mic-tech.svg)
+[← 回作品集首頁](../README.md)
+
+## 這是什麼作品？
+
+這是我為了讓使用者在聊天、搜尋或筆記時直接說話輸入，而開發的 Android AI 鍵盤。不必另外打開錄音 App，辨識後的文字會嘗試直接回填到輸入框。
+
+### 主要特色
+
+鍵盤錄音、Gemini 語音轉文字、複製與回填；回填穩定性仍持續改善。
+
+### 技術重點
+
+Android IME、InputConnection、Vercel API 與 Gemini 轉錄。
+
+> 下方兩張圖直接顯示在本頁，無須點開 SVG 原始碼。
 
 ## 01｜應用操作流程
 
