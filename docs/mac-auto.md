@@ -6,6 +6,16 @@
 
 [← 回作品集首頁](../README.md)　·　[開啟應用圖 SVG](../assets/diagrams/mac-auto-app.svg)　·　[開啟技術圖 SVG](../assets/diagrams/mac-auto-tech.svg)
 
+## 這是什麼作品？
+
+為了不在 Mac 前也能完成重複的影音下載與檔案工作，我把 Telegram 當作遠端指令入口，讓本機 Python 腳本執行任務。
+
+### 主要特色
+
+Telegram 指令、Python 自動化、影音下載與檔案整理；原始腳本未公開。
+
+> 兩張流程圖直接顯示在下方，不用開啟 SVG 原始碼。
+
 ## 01｜應用操作流程
 
 從使用者角度，看一次主要操作如何完成。
